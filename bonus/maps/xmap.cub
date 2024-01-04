@@ -1,0 +1,13 @@
+WE ./textures/cute.png
+SO ./textures/fortress.png
+NO ./textures/moss.png
+EA ./textures/wall.png
+
+C              110,0,0
+F              47,82,65
+
+111111
+100101
+101001
+1100N1
+111111
